@@ -7,3 +7,5 @@ Link download dataset:
 -Blood test cancer: https://drive.google.com/file/d/1n4U5Nf-Ska1b4wjCyWgmt5nIDkUyN7_B/view?usp=drive_link
 
 -Blood cell cancer: https://drive.google.com/file/d/1R7LmIzSv7Nvyb143885soK9IsHYodfll/view?usp=drive_link
+
+-Video demo: https://youtu.be/ySdqCVim2OM
